@@ -62,6 +62,21 @@ kubectl port-forward service/backend -n chat-app 5001:5001
 ```bash
 sudo -E kubectl port-forward service/frontend -n chat-app 80:80
 ```
+<img width="800" height="860" alt="Screenshot 2026-02-05 at 4 09 19 AM" src="https://github.com/user-attachments/assets/fb80754f-0392-4925-8b01-7402c048a65b" />
+
+<img width="800" height="860" alt="Screenshot 2026-02-05 at 5 12 58 AM" src="https://github.com/user-attachments/assets/7fbd32f9-e265-42ec-8929-fe7a68913424" />
+
+<img width="800" height="860" alt="Screenshot 2026-02-05 at 5 13 40 AM" src="https://github.com/user-attachments/assets/8a2b5bc9-0d6d-430d-bb38-917282338dff" />
+
+<img width="800" height="860" alt="Screenshot 2026-02-05 at 5 15 16 AM" src="https://github.com/user-attachments/assets/cd88fc4b-7ed0-408b-ad62-0d0f2aa67af4" />
+
+<img width="800" height="860" alt="Screenshot 2026-02-05 at 5 18 33 AM" src="https://github.com/user-attachments/assets/9b295525-ccf6-4203-b78c-190e8ca02280" />
+
+
+
+
+
+
 ## 🔹 Step 13: Enable Ingress and Access Application via Minikube
 ```bash
 minikube addons enable ingress
