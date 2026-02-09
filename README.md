@@ -66,10 +66,13 @@ sudo -E kubectl port-forward service/frontend -n chat-app 80:80
 
 <img width="800" height="860" alt="Screenshot 2026-02-05 at 5 12 58 AM" src="https://github.com/user-attachments/assets/7fbd32f9-e265-42ec-8929-fe7a68913424" />
 
+Created A Profile on my Chatapp.
 <img width="800" height="860" alt="Screenshot 2026-02-05 at 5 13 40 AM" src="https://github.com/user-attachments/assets/8a2b5bc9-0d6d-430d-bb38-917282338dff" />
 
+Created another profile on incognito and added it to my contact 
 <img width="800" height="860" alt="Screenshot 2026-02-05 at 5 15 16 AM" src="https://github.com/user-attachments/assets/cd88fc4b-7ed0-408b-ad62-0d0f2aa67af4" />
 
+Real-time chat with my contact created
 <img width="800" height="860" alt="Screenshot 2026-02-05 at 5 18 33 AM" src="https://github.com/user-attachments/assets/9b295525-ccf6-4203-b78c-190e8ca02280" />
 
 
